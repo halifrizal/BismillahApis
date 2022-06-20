@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "namaAsal": "Merak",
+        "namaTujuan": "Bakauheni",
+        "harga": 300000
+    },
+    {
+        "id": 2,
+        "namaAsal": "Bakauheni",
+        "namaTujuan": "Merak",
+        "harga": 300000
+    },{
+        "id": 3,
+        "namaAsal": "Gilimanuk",
+        "namaTujuan": "Ketapang",
+        "harga": 50000
+    },{
+        "id": 4,
+        "namaAsal": "Ketapang",
+        "namaTujuan": "Gilimanuk",
+        "harga": 50000
+    }
+]
