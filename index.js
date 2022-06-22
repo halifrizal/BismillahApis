@@ -3,6 +3,7 @@ const app = express();
 const importDataPesawat = require("./dataPesawat.json")
 const importDataHotel = require("./dataHotel.json")
 const importDataKapal = require("./dataKapal.json")
+const importDataBurger = require("./dataBurger.json")
 let port = process.env.PORT || 3000;
 
 app.get("/", (req,res) => {
@@ -19,6 +20,10 @@ app.get("/dataHotel", (req,res)=> {
 
 app.get("/dataKapal", (req,res)=> {
     res.send(importDataKapal);
+})
+
+app.get("/dataBurger", (req,res)=> {
+    res.send(importDataBurger);
 })
 
 app.listen(port, () => {
