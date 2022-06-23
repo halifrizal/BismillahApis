@@ -4,7 +4,7 @@ const importDataPesawat = require("./dataPesawat.json")
 const importDataHotel = require("./dataHotel.json")
 const importDataKapal = require("./dataKapal.json")
 const importDataBurger = require("./dataBurger.json")
-const importDataSepatu = require("./dataBSepatu.json")
+const importDataSepatu = require("./dataSepatu.json")
 const importDataFood = require("./dataFood.json")
 let port = process.env.PORT || 3000;
 
