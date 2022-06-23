@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama": "Dimsum ala Gacoan",
+        "deskripsi": "Dengan Rasa elegan dan Manis",
+        "gambar": "https://drive.google.com/file/d/138WIJ5pmwmTrtq9fpY0YAYNTILw7_lkh/view?usp=sharing"
+    },
+    {
+        "id": 2,
+        "nama": "Gado Gado Kesukaan mama rafathar",
+        "deskripsi": "Wauuw",
+        "gambar": "https://drive.google.com/file/d/1q_HtCLvyjYSG0WFulMs3wOPlZrRxT-7J/view?usp=sharing"
+    },
+    {
+        "id": 3,
+        "nama": "Bola Keju yang enak pol",
+        "deskripsi": "Bola Keju enak banget disuka sama chintya",
+        "gambar": "https://drive.google.com/file/d/1KPSp_xI7pdXnNemCzxzZJgmyaOLQ9tT7/view?usp=sharing"
+    },
+    {
+        "id": 4,
+        "nama": "Ramen enak dari Marogume",
+        "deskripsi": "Marogume udon mahal",
+        "gambar": "https://drive.google.com/file/d/1kDbwfCxpx2bZg3y0XUtlu3aT7QB-xErM/view?usp=sharing"
+    },
+    {
+        "id": 5,
+        "nama": "Keripik Pisang ala annisa",
+        "deskripsi": "Keripik keripik enak buanget looh",
+        "gambar": "https://drive.google.com/file/d/19D8CCRQawGRhBIylP01_vkW-06xo34oL/view?usp=sharing"
+    }
+]

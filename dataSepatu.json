@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nama": "Sepatu Vantovel",
+        "deskripsi": "Sepatu keren yang biasa dipakai di kantor",
+        "gambar": "https://drive.google.com/file/d/1PPv9vk6lmBY_OAd8OpKJwB0tLGQ-mROy/view?usp=sharing",
+        "harga": 300000
+    },
+    {
+        "id": 2,
+        "nama": "Sepatu Sneakers",
+        "deskripsi": "Disini adalah sepatu sneakers banyak macam dan bagus dipakai",
+        "gambar": "https://drive.google.com/file/d/1Fvh8hiSQT7nxNuFj-QdNDSzZJrs49b67/view?usp=sharing",
+        "harga": 450000
+    },
+    {
+        "id": 3,
+        "nama": "Sepatu Kampusann",
+        "deskripsi": "Sepatu kampus yang dipakai semua anak kampus",
+        "gambar": "https://drive.google.com/file/d/15kQsoiLvXCVmW5NtTGQLddhGV3AvXJJC/view?usp=sharing",
+        "harga": 300000
+    },
+    {
+        "id": 4,
+        "nama": "Sepatu Bayik Cx",
+        "deskripsi": "Sepatu stylish buat anak bayik",
+        "gambar": "https://drive.google.com/file/d/1IBsOH29SH7lt_L6-FZLLs_MJ5sgzCwUP/view?usp=sharing",
+        "harga": 2750000
+    },
+    {
+        "id": 5,
+        "nama": "Sepatu rollerxsks",
+        "deskripsi": "Sepatu buatan xonpas yang keras dan sering buat orang jatuh",
+        "gambar": "https://drive.google.com/file/d/13UU41b1RUXoYG6yMN6ryg7hYK_D9xqW-/view?usp=sharing",
+        "harga": 1600000
+    }
+]
